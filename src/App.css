@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +38,21 @@
     transform: rotate(360deg);
   }
 }
+input:focus{
+  outline: none;
+}
+li{
+  list-style: none;
+  text-decoration: none;
+}
+button{
+  border: none;
+}
+button:focus {
+  border: none;
+  outline: none; }
+
+  .fs-1{
+    font-size: 125px;
+  }
+  
